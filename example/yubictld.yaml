@@ -1,0 +1,7 @@
+server:
+  add: 127.0.0.1:3000
+touch:
+  kind: h4ptix
+ykman:
+  lock_ttl: 1h
+  discovery: toucher
