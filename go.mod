@@ -9,7 +9,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.52.10
 	github.com/knadh/koanf/parsers/yaml v1.1.0
 	github.com/knadh/koanf/providers/env v1.1.0
-	github.com/knadh/koanf/providers/file v1.2.0
+	github.com/knadh/koanf/providers/file v1.2.1
 	github.com/knadh/koanf/v2 v2.3.0
 	github.com/rs/zerolog v1.34.0
 	github.com/spf13/cobra v1.10.1
