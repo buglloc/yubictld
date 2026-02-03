@@ -6,7 +6,7 @@ require (
 	github.com/buglloc/fidoctl v0.9.2-0.20250417180358-cdce348854e0
 	github.com/buglloc/h4ptix/software/h4ptix v1.2.2
 	github.com/go-resty/resty/v2 v2.17.0
-	github.com/gofiber/fiber/v2 v2.52.10
+	github.com/gofiber/fiber/v2 v2.52.11
 	github.com/knadh/koanf/parsers/yaml v1.1.0
 	github.com/knadh/koanf/providers/env v1.1.0
 	github.com/knadh/koanf/providers/file v1.2.0
